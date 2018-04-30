@@ -3,7 +3,7 @@
 
 Youngjin Kim's Personal Works
 
-![Sleek Jekyll Theme](./sleek.jpg)
+![Sleek Jekyll Theme](./dc.jpg)
 
 
 ## License
