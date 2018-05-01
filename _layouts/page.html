@@ -35,7 +35,7 @@ layout: compress
     <div class="post-content controls__inner">
        <div class="controls__item prev">
          {% if page.previous.url %}
-         <span>Previous</span>
+         <span>다음 프로젝트</span>
          <a href="{{page.next.url | relative_url }}">
          <span>
          <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
@@ -49,7 +49,7 @@ layout: compress
 
        <div class="controls__item next">
          {% if page.next.url %}
-         <span>Next</span>
+         <span>이전 프로젝트</span>
          <a href="{{page.previous.url | relative_url }}">
            {{page.previous.title | strip_html | truncate: 30}}
            <span>
