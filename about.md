@@ -49,6 +49,6 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 ## 🍶 Contact
 
 
-+ <doubliclipnet@gmail.com>
++ <doubleclipnet@gmail.com>
 + <a href= "https://dribbble.com/doubleclip" target="_blank">Dribbble</a>
 + <a href= "https://github.com/doubleclipnet" target="_blank">Github</a>
