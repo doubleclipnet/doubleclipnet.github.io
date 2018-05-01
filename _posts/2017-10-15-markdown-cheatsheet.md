@@ -195,6 +195,8 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
+(https://github.com/doubleclipnet/doubleclipnet.github.io/blob/master/assets/img/posts/sleek.jpg)
+
 <a name="code"/>
 ## Code and Syntax Highlighting
 
@@ -397,6 +399,7 @@ Or, in pure Markdown, but losing the image sizing and border:
 ```no-highlight
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
+#images
 
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
