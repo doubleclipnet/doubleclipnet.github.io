@@ -12,6 +12,7 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 
 ## Side Project
 
+---
 
 **[스펙타클리스](http://spectacleless.com)**
 
