@@ -22,14 +22,13 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 
 <br>
 
-**[스펙타클리스](http://spectacleless.comt target="_blank")**
-
+<a href="http://spectacleless.com" target="_blank"><b>스펙타클리스</b></a>
 + 2015.4 ~ 현재
 + 독립출판 프로젝트입니다. 현재까지 7권의 작고 얄팍한 책을 만들었습니다.
 
 <br>
 
-**[모험가 시늉](https://www.flickr.com/photos/favoritetime target="_blank")**
+<a href="https://www.flickr.com/photos/favoritetime" target="_blank"><b>모험가 시늉</b></a>
 
 + 2018.3 ~ 현재
 + 여행사진 아카이브입니다. 모험가를 꿈꾸지만 무서워서 안전한 여행을 다니고 있습니다.
