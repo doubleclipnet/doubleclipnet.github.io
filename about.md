@@ -24,7 +24,7 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 
 <a href= "http://spectacleless.com" target="_blank"><b>스펙타클리스</b></a>
 + 2015.4 ~ 현재
-+ 독립출판 프로젝트입니다. 현재까지 7권의 작고 얄팍한 책을 만들었습니다.
++ 독립출판 프로젝트입니다. 지금까지 7권의 작고 얄팍한 책을 만들었습니다.
 
 <br>
 
