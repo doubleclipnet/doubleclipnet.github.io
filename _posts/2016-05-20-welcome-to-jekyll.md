@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 흐엉헝
 thumbnail: emile-perron-190221
 ---
