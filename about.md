@@ -28,7 +28,7 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 
 <br>
 
-<a href= "http://www.flickr.com/photos/favoritetime" target="_blank"><b>모험가 시늉</b></a>
+<a href= "http://www.flickr.com/photos/favoritetime/albums" target="_blank"><b>모험가 시늉</b></a>
 
 + 2018.3 ~ 현재
 + 여행사진 아카이브입니다. 모험가를 꿈꾸지만 무서워서 안전한 여행을 다니고 있습니다.
