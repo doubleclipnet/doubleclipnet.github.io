@@ -195,7 +195,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-<img src="https://github.com/doubleclipnet/doubleclipnet.github.io/blob/master/assets/img/posts/sleek.jpg">
+<img src="/blob/master/assets/img/posts/sleek.jpg">
 
 <a name="code"/>
 ## Code and Syntax Highlighting
