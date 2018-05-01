@@ -23,11 +23,6 @@
     transition: transform .3s, background-color 0.5s ease;
     z-index: 5;
   }
-
-  &.hide-nav {
-    transform: translateY(-120%);
-    transition: transform .3s;
-  }
 }
 
 .header__logo {
