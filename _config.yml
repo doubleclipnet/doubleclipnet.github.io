@@ -18,9 +18,8 @@ disqus:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Works', link: '/'}
-  - {name: 'About', link: '/about'}
   - {name: 'Blog', link: '/blog'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'About', link: '/about'}
 
 # Build settings
 markdown: kramdown
