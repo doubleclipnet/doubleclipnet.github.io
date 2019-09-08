@@ -8,6 +8,7 @@ hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visib
 @import url(https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap);//google web font added
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Gothic+A1&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Gothic+A1&display=swap');
+<link href="https://fonts.googleapis.com/css?family=Black+Han+Sans|Gothic+A1&display=swap" rel="stylesheet">
 pre{font-family:'Black Han Sans','Gothic A1', monospace, monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}
 abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}
 b,strong{font-weight:inherit}
