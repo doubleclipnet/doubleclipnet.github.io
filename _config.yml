@@ -20,6 +20,7 @@ navigation: # Navigation links
   - {name: 'Works', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Blog', link: '/blog'}
+  - {name: 'Contact', link: '/contact'}
 
 # Build settings
 markdown: kramdown
