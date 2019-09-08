@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+description: 관심 분야의 글을 아주 가끔씩 올립니다.
 ---
 
 <div>
