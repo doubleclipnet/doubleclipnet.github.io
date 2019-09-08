@@ -18,7 +18,7 @@ disqus:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Works', link: '/'}
-  - {name: 'Blog', link: '/blog'}
+  - {name: 'Blog', tagline: bloggggg, link: '/blog'}
   - {name: 'About', link: '/about'}
 
 # Build settings
