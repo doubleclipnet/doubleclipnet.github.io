@@ -15,6 +15,10 @@ google_analytics_id: UA-118796961-1
 disqus:
   shortname: Doubleclip # to enable comments replace with your_disqus_shortname
 
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'About', link: '/about'}
+
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
