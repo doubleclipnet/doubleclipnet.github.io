@@ -1,12 +1,27 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
-<div style="text-align:center">
-![IMAGE](http://doubleclip.net/assets/img/posts/golden.jpg)
+![Image Alt 텍스트](http://doubleclip.net/assets/img/profile05.png)
+
 <br>
-서울에서 디지털 프로덕트 디자인을 하고 있는 김영진입니다.<br>
+서울에서 프로덕트 디자인을 하는 `김영진`입니다.<br>
 …<br>
-아무쪼록 일 있으면 <a href="mailto:doubleclipnet@gmail.com">doubleclipnet@gmail.com</a>으로 메일주세요.
-</div>
+아무쪼록 일 있으면 <a href="mailto:doubleclipnet@gmail.com">doubleclipnet@gmail.com</a>으로 메일 주시고요.<br>
+저에 대해 더 관심이 있으시면 [블로그](http://youngjin.xyz)를 봐주세요.
+<br>
+<br>
+```no-highlight
+WORK
+
+2012.01 - 2012.12 □□□□ □□□ / 그래픽 디자인
+
+2013.01 - 2015.01 □□□□□ / 그래픽, 웹 디자인
+
+2015.02 - 2017.05 □□□□□□ / 프로덕트 디자인
+
+2018.05 - 2019.08 □□□□ / 프로덕트 디자인
+
+2019.08 -         □□□□□□ / 프로덕트 디자인
+```
