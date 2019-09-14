@@ -12,16 +12,14 @@ permalink: /about/
 저에 대해 더 관심이 있으시면 [블로그](http://youngjin.xyz)를 봐주세요.
 <br>
 <br>
-```no-highlight
-WORK
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">WORK</span>
 
-2012.01 - 2012.12 □□□□ □□□ / 그래픽 디자인
+<span class="nd">2019.08 - 현재     □□□□□□ / 프로덕트 디자인</span>
 
-2013.01 - 2015.01 □□□□□ / 그래픽, 웹 디자인
+<span class="nv">2018.05 - 2019.08 □□□□ / 프로덕트 디자인</span>
 
-2015.02 - 2017.05 □□□□□□ / 프로덕트 디자인
+<span class="vg">2015.02 - 2017.05 □□□□□□ / 프로덕트 디자인</span>
 
-2018.05 - 2019.08 □□□□ / 프로덕트 디자인
+<span class="nb">2013.01 - 2015.01 □□□□ □□□ / 그래픽, 웹디자인</span>
 
-2019.08 -         □□□□□□ / 프로덕트 디자인
-```
+<span class="bp">2012.01 - 2012.12 □□□□ □□□ / 그래픽 디자인</span>
