@@ -8,13 +8,4 @@
     <div class="dark-bg"></div>
   </figure>
   {% endif %}
-  <div class="post-card__inner">
-    <div class="post-card__header">
-      <h2>{{ post.title | strip_html | truncate: 50 }}</h2>
-      {% assign date_format = site.sleek.date_format | default: "%Y/%-m/%-d" %}
-      <span class="post-card__meta">
-        <time>{{ post.date | date: date_format }}</time>
-      </span>
-    </div>
-  </div>
 </a>

@@ -76,7 +76,7 @@ pre>code{padding:0;margin:0;font-size:0.9rem;color:#25292e;word-break:normal;whi
       .header__link :focus::after{-webkit-transform:scaleX(1);transform:scaleX(1);color:#0f4c9c;-webkit-transition:-webkit-transform
         .2s ease-in-out;transition:-webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out;transition:transform
         .2s ease-in-out, -webkit-transform .2s ease-in-out}}
-        footer{background-color: #ffffff; padding:1rem 0; padding-top:1px; padding-bottom:28px; border-top:1px solid #f9f9f9;text-align:center;font-size:0.875rem;color:#adb5bd;}
+        footer{background-color: #eaeaea1c; padding:1rem 0; padding-top:1px; padding-bottom:28px; border-top:0px solid #eaeaea1c;;text-align:center;font-size:0.875rem;color:#adb5bd;}
         footer a{color:rgba(33,33,33,0.6);border-bottom:0}footer a:hover{color:#277cea;border-bottom:0}
         .social{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around;-webkit-box-align:center;-ms-flex-align:center;align-items:center;max-width:200px;margin:0 auto 25px}
         .social__link:not(:last-child){margin-right:1.125rem}.social__icon{fill:currentColor;height:1.5rem;width:1.5rem}
@@ -86,7 +86,7 @@ pre>code{padding:0;margin:0;font-size:0.9rem;color:#25292e;word-break:normal;whi
         :active,input[type="button"]:hover,input[type="button"] :focus,input[type="button"] :active{color:#fff;background-color:#44464a;outline:0}
         .btn+.btn{margin-top:2em}@media (min-width: 350px){.btn+.btn{margin-top:0;margin-left:2em}}button:disabled{cursor:not-allowed;opacity:.65;-webkit-transition:background-color
           .2s ease;transition:background-color .2s ease}button:disabled:hover,button:disabled :focus{background-color:#222325}
-          .post-card{display:block;width:100%;min-height:250px;border-radius:4px;overflow:hidden;background-color:#fff;-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.08);box-shadow:0 1px 20px rgba(0,0,0,0.03);margin-bottom:2.25rem;border-bottom:0;-webkit-transition:-webkit-box-shadow
+          .post-card{display:block;width:100%;min-height:0px;border-radius:16px;overflow:hidden;background-color:#fff;-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.08);box-shadow:0 1px 20px rgba(0,0,0,0.03);margin-bottom:5rem;border-bottom:0;-webkit-transition:-webkit-box-shadow
             .25s ease;transition:-webkit-box-shadow .25s ease;transition:box-shadow .25s ease;transition:box-shadow
             .25s ease, -webkit-box-shadow .25s ease}.post-card:hover,
             .post-card:focus{border-bottom:0;-webkit-box-shadow:0 2px 40px 0 rgba(153,155,168,0.3);box-shadow:0 2px 40px 0 rgba(153,155,168,0.3)}
@@ -152,7 +152,7 @@ pre>code{padding:0;margin:0;font-size:0.9rem;color:#25292e;word-break:normal;whi
               @media (min-width: 48em){.hero__wrap{max-width:40em}}.hero__wrap .hero__title{font-size:1.8em;color:#292929}
               @media (min-width: 48em){.hero__wrap .hero__title{font-size:2.625em;line-height:3.125rem}}.page-content{max-width:52.5rem;margin:0 auto;padding:2.5em 0}
               @media (min-width: 48em){.page-content{padding:3.75rem 0}}
-              .blog{background-color:#eaeaea1c;border-top: 1px solid #f9f9f9}.post-list{padding-top:2.5em;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto}
+              .blog{background-color:#eaeaea1c;border-top: 1px solid #f1f3f5}.post-list{padding-top:4em;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto}
               @media (min-width: 48em){.post-list{padding-top:5em}}.post-content{max-width:52.5rem;margin:0 auto;padding-top:2.5em}
               @media (min-width: 48em){.post-content{padding-top:5em}}.comments{padding:50px 0;background-color:#fafafa}
               .controls__inner{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;padding:1.375rem 10 1.25rem;border-top:1px solid #fff}

@@ -22,7 +22,6 @@ navigation: # Navigation links
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-theme-cayman
 exclude:
   - README.md
   - node_modules
