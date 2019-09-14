@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Goldentest
+title:
 thumbnail: test_kermit_thumb
 ---
 
