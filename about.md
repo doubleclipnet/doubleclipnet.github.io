@@ -6,6 +6,7 @@ permalink: /about/
 ![Image Alt 텍스트](http://doubleclip.net/assets/img/profile05.png)
 
 <br>
+<br>
 서울에서 프로덕트 디자인을 하는 `김영진`입니다.<br>
 …<br>
 아무쪼록 일 있으면 <a href="mailto:doubleclipnet@gmail.com">doubleclipnet@gmail.com</a>으로 메일 주시고요.<br>
@@ -20,6 +21,6 @@ permalink: /about/
 
 <span class="vg">2015.02 - 2017.05 □□□□□□ / 프로덕트 디자인</span>
 
-<span class="nb">2013.01 - 2015.01 □□□□ □□□ / 그래픽, 웹디자인</span>
+<span class="nb">2013.01 - 2015.01 □□□□□ / 그래픽, 웹디자인</span>
 
 <span class="bp">2012.01 - 2012.12 □□□□ □□□ / 그래픽 디자인</span>
