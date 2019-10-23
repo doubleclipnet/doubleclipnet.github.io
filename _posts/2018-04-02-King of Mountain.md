@@ -16,6 +16,11 @@ thumbnail: test_kermit_thumb
 
 ![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s6.jpg)
 
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s7.jpg)
+
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s8.jpg)
+
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s9.jpg)
 
 <br>
 ### 💬 Comment
