@@ -8,9 +8,9 @@ thumbnail: mt_thumb
 
 ![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s2.jpg)
 
-![Image Alt 텍스트](http://127.0.0.1:4000/assets/img/posts/mtking_s3_1.gif)
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s3_1.gif)
 
-![Image Alt 텍스트](http://127.0.0.1:4000/assets/img/posts/mtking_s4.jpg)
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s4.jpg)
 
 ![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s5.jpg)
 
