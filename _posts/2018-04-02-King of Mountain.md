@@ -20,7 +20,7 @@ thumbnail: mt_thumb
 
 ![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s8.jpg)
 
-![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s9.jpg)
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/mtking_s9_1.jpg)
 
 <br>
 ### 💬 Comment
