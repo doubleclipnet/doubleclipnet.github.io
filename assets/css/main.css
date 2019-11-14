@@ -159,7 +159,7 @@ pre>code{padding:0;margin:0;font-size:0.9rem;color:#25292e;word-break:normal;whi
               .controls__inner .prev{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start;text-align:left}
               .controls__inner .next{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end;text-align:right}
               .controls__item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}
-              .controls__item span{font-size:0.875rem;color:#838c8d}.controls__item a{color:#313237;font-weight:bold;border-bottom:0}
+              .controls__item span{font-size:0.875rem;color:#838c8d}.controls__item a{color:#ffffff;font-weight:bold;border-bottom:0}
               .controls__item a svg{-webkit-transition:all .2s linear;transition:all .2s linear}.controls__item a:hover{color:#277cea;border-bottom:0}
               .controls__item a:hover svg{fill:#277cea}
               .skill_name{display: inline-block;padding: 4px 14px;border-radius: 100px;border: solid 1px #D8E0E7; font-size: 12px; margin: 0 8px 14px 0;}

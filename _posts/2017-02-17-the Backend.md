@@ -34,6 +34,6 @@ thumbnail: be_thumb
 </div>
 
 ### 🛠 Tool
-<li class="skill_name2">Sketch</li><li class="skill_name2">Photoshop</li><li class="skill_name2">Illustrator</li>
+<li class="skill_name2">Sketch</li><li class="skill_name2">Illustrator</li>
 
 <br>
