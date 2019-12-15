@@ -18,6 +18,12 @@ thumbnail: sa_thumb
 
 ![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/sa_s7.jpg)
 
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/sa_s8.gif)
+
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/sa_s9.gif)
+
+![Image Alt 텍스트](http://doubleclip.net/assets/img/posts/sa_s10.jpg)
+
 
 <br>
 ### 💬 Comment
