@@ -13,7 +13,7 @@ permalink: /about/
 저에 대해 더 관심이 있으시면 [블로그](http://youngjin.xyz)를 봐주세요.
 <br>
 <br>
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">WORK</span>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">Experience</span>
 
 <span class="nd">2019.08 - 현재     □□□□□□ / 프로덕트 디자인</span>
 
