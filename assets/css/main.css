@@ -86,7 +86,7 @@ pre>code{padding:0;margin:0;font-size:0.9rem;color:#25292e;word-break:normal;whi
         :active,input[type="button"]:hover,input[type="button"] :focus,input[type="button"] :active{color:#fff;background-color:#44464a;outline:0}
         .btn+.btn{margin-top:2em}@media (min-width: 350px){.btn+.btn{margin-top:0;margin-left:2em}}button:disabled{cursor:not-allowed;opacity:.65;-webkit-transition:background-color
           .2s ease;transition:background-color .2s ease}button:disabled:hover,button:disabled :focus{background-color:#222325}
-          .post-card{display:block;width:100%;min-height:0px;border-radius:16px;overflow:hidden;background-color:#fff;-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.08);box-shadow:0 1px 20px rgba(0,0,0,0.03);margin-bottom:5rem;border-bottom:0;-webkit-transition:-webkit-box-shadow
+          .post-card{display:block;width:100%;min-height:0px;border-radius:16px;overflow:hidden;background-color:#fff;-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.08);box-shadow:0 1px 20px rgba(0,0,0,0.03);margin-bottom:2.5rem;border-bottom:0;-webkit-transition:-webkit-box-shadow
             .25s ease;transition:-webkit-box-shadow .25s ease;transition:box-shadow .25s ease;transition:box-shadow
             .25s ease, -webkit-box-shadow .25s ease}.post-card:hover,
             .post-card:focus{border-bottom:0;-webkit-box-shadow:0 2px 40px 0 rgba(153,155,168,0.3);box-shadow:0 2px 40px 0 rgba(153,155,168,0.3)}
