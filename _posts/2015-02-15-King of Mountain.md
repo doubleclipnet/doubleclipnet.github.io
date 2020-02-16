@@ -4,23 +4,23 @@ title:
 thumbnail: mt_thumb
 ---
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s1.gif)
+![Image Alt 텍스트](/assets/img/posts/mtking_s1.gif)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s2.jpg)
+![Image Alt 텍스트](/assets/img/posts/mtking_s2.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s3_1.gif)
+![Image Alt 텍스트](/assets/img/posts/mtking_s3_1.gif)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s4.jpg)
+![Image Alt 텍스트](/assets/img/posts/mtking_s4.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s5.jpg)
+![Image Alt 텍스트](/assets/img/posts/mtking_s5.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s6.jpg)
+![Image Alt 텍스트](/assets/img/posts/mtking_s6.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s7.jpg)
+![Image Alt 텍스트](/assets/img/posts/mtking_s7.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s8.jpg)
+![Image Alt 텍스트](/assets/img/posts/mtking_s8.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/mtking_s9_1.jpg)
+![Image Alt 텍스트](/assets/img/posts/mtking_s9_1.jpg)
 
 <br>
 ### 💬 Retrospection

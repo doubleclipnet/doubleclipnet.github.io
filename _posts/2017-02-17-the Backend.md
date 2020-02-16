@@ -4,19 +4,19 @@ title:
 thumbnail: be_thumb
 ---
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/be_01.jpg)
+![Image Alt 텍스트](/assets/img/posts/be_01.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/be_02.jpg)
+![Image Alt 텍스트](/assets/img/posts/be_02.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/be_03.jpg)
+![Image Alt 텍스트](/assets/img/posts/be_03.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/be_04.jpg)
+![Image Alt 텍스트](/assets/img/posts/be_04.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/be_05.jpg)
+![Image Alt 텍스트](/assets/img/posts/be_05.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/be_06.jpg)
+![Image Alt 텍스트](/assets/img/posts/be_06.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/be_07.jpg)
+![Image Alt 텍스트](/assets/img/posts/be_07.jpg)
 
 <br>
 ### 💬 Retrospection

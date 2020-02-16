@@ -4,25 +4,25 @@ title:
 thumbnail: sa_thumb
 ---
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s1.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s1.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s2.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s2.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s3.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s3.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s4.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s4.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s5.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s5.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s6.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s6.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s7.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s7.jpg)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s8.gif)
+![Image Alt 텍스트](/assets/img/posts/sa_s8.gif)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s9.gif)
+![Image Alt 텍스트](/assets/img/posts/sa_s9.gif)
 
-![Image Alt 텍스트](https://doubleclipnet.github.io/assets/img/posts/sa_s10.jpg)
+![Image Alt 텍스트](/assets/img/posts/sa_s10.jpg)
 
 
 <br>

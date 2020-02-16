@@ -41,7 +41,7 @@ em{font-style:italic}abbr[title]{text-decoration:none}mark{background:#ff0;color
 code{padding:0.2em 0.4em;font-family:Consolas, "Liberation Mono", Menlo, Courier, monospace;font-size:0.9rem;color:#4c6ef5;background-color:#edf2ff9c;border-radius:3px}
 pre{padding:2rem;margin-top:0;margin-bottom:1rem;overflow-x:auto;font:1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;color:#25292e;word-wrap:normal;background-color:#ffffff;border:solid 1px #91a7ff;border-radius:0.3rem}
 pre>code{padding:0;margin:0;font-size:0.9rem;color:#25292e;word-break:normal;white-space:pre;background:transparent;border:0}
-.blur{background:#fff;filter:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="16" /></filter></svg>#filter');-webkit-filter:blur(1rem);filter:blur(1rem);transition:filter 400ms, -webkit-filter 400ms}
+.blur{background:#fff;filter:url('data:image/svg+xml;charset=utf-8,<svg xmlns="https://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="16" /></filter></svg>#filter');-webkit-filter:blur(1rem);filter:blur(1rem);transition:filter 400ms, -webkit-filter 400ms}
 .blur.lazyloaded{-webkit-filter:blur(0);filter:blur(0)}.dark-bg{background-color:#313237}.hidden{display:none;visibility:hidden}
 .container{padding:0 20px}@media (min-width: 0){.container{max-width:auto;margin:0 auto}}@media (min-width: 36em){.container{max-width:540px;margin:0 auto}}
 @media (min-width: 48em){.container{max-width:720px;margin:0 auto}}
