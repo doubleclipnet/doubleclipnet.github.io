@@ -1,13 +1,6 @@
 <!-- Open Graph -->
-	<meta property="og:locale" content="{{ site.locale }}">
-	<meta property="og:type" content="article">
-	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	{% if page.image.feature %}
-	<meta name="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
-	{% else %}
-	<meta name="og:image" content="{% if page.image.thumb %}{{/assets/img/posts/dc.jpg}}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">
-	{% endif %}
-
-	{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
-	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property=”og:title” content=”Double Clip” />
+ 	<meta property=”og:type” content=”website” />
+	<meta property="og:description" content="김영진의 프로덕트 디자인 포트폴리오입니다 👨‍💻">
+ 	<meta property=”og:url” content=”https://doubleclip.net" />
+ 	<meta property=”og:image” content=”doubleclipnet.github.io/assets/img/posts/dc.jpg" />
